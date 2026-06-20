@@ -1,2 +1,13 @@
-# Serverless-API-using-Flask-
-This is a simple Flask API project I built to understand how backend works.It gives JSON responses when we open different URLs in the browser.I used this project to learn how APIs work, how routes are created, and how data is returned from a server.
+# Serverless API using Flask
+A simple REST API built using Flask. It provides basic endpoints that return JSON responses and can be tested locally using a browser or API tools.
+# Features
+Simple REST API using Flask
+JSON response support
+Lightweight and fast
+Easy to run locally
+Beginner-friendly project
+# Technologies Used
+Python
+Flask
+ #Author
+Hari Haran 
